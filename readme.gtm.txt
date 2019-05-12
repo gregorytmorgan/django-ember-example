@@ -1,7 +1,7 @@
 
 Django & EmberJS Full Stack Basics: Connecting Frontend and Backend
 
-Part 1
+Part 1, Aug 28, 2018
 https://medium.com/@sunskyearthwind/django-emberjs-full-stack-basics-connecting-frontend-and-backend-part-1-beed8c386b08
 
 Part 2
