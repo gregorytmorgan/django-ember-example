@@ -17,5 +17,12 @@ Part 5
 https://medium.com/@sunskyearthwind/django-emberjs-full-stack-basics-connecting-frontend-and-backend-part-5-310e016eee38
 
 
+Files
+==========
 
-
+django-ember-example [project root] 
+ - django-ember-example [django]
+ - server []
+ - activate [shortcut script to activate project python environment]
+ - readme.gtm.txt [this file]
+ 
