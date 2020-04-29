@@ -1,0 +1,11 @@
+### Django server ###
+
+*.log
+*.pot
+*.pyc
+__pycache__/
+  
+server/local_settings.py
+server/db.sqlite3
+server/media
+server/config.json
